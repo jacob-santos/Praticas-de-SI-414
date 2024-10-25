@@ -1,0 +1,69 @@
+el link de 
+php artisan serve
+
+http://localhost:8000/api/smartphones
+
+
+base de datos 
+[
+    {
+        "marca": "Samsung",
+        "modelo": "Galaxy S21",
+        "sistema_operativo": "Android",
+        "capacidad_almacenamiento": 128
+    },
+    {
+        "marca": "Apple",
+        "modelo": "iPhone 13 Pro",
+        "sistema_operativo": "iOS",
+        "capacidad_almacenamiento": 256
+    },
+    {
+        "marca": "Xiaomi",
+        "modelo": "Mi 11",
+        "sistema_operativo": "Android",
+        "capacidad_almacenamiento": 128
+    },
+    {
+        "marca": "OnePlus",
+        "modelo": "9 Pro",
+        "sistema_operativo": "Android",
+        "capacidad_almacenamiento": 256
+    },
+    {
+        "marca": "Google",
+        "modelo": "Pixel 6",
+        "sistema_operativo": "Android",
+        "capacidad_almacenamiento": 128
+    },
+    {
+        "marca": "Sony",
+        "modelo": "Xperia 5 III",
+        "sistema_operativo": "Android",
+        "capacidad_almacenamiento": 128
+    },
+    {
+        "marca": "Huawei",
+        "modelo": "P40 Pro",
+        "sistema_operativo": "Android",
+        "capacidad_almacenamiento": 256
+    },
+    {
+        "marca": "Motorola",
+        "modelo": "Edge 20 Pro",
+        "sistema_operativo": "Android",
+        "capacidad_almacenamiento": 128
+    },
+    {
+        "marca": "Oppo",
+        "modelo": "Find X3 Pro",
+        "sistema_operativo": "Android",
+        "capacidad_almacenamiento": 256
+    },
+    {
+        "marca": "Nokia",
+        "modelo": "G50",
+        "sistema_operativo": "Android",
+        "capacidad_almacenamiento": 64
+    }
+]
